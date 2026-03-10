@@ -1,4 +1,4 @@
 const userProfiles = []
 const userProfiles = {}
 
-const test = ""
+const test = []
