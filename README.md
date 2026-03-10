@@ -1,5 +1,5 @@
 # teamable
-This is aplication which I created during the "IT Fundamentals" course.
+This is aplication which I created during the IT Fundamentals course.
 
 ### To run the test execute
 
