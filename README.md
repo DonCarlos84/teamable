@@ -1,12 +1,18 @@
 # teamable
-This is aplication which I created during the IT Fundamentals course.
+This is an app I made during the "IT Fundamentals" course from Tech World with NaNa.
 
-### To run the test execute
+To start the application, follow these steps:
 
-    npm run test
+### To download dependencies execute
 
-### To package the application execute
+    npm install
 
-    npm pack
+### To build production execute
 
-Application runs on port 3000
+    npm run build
+
+### To starte te application execute
+
+    npm run start
+
+The application will run on http://localhost:3000/
