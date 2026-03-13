@@ -1,5 +1,5 @@
 # teamable
-This is an app I made during the "IT Fundamentals" course from Tech World with NaNa.
+This is an application I made during the "IT Fundamentals" course from Tech World with NaNa.
 
 To start the application, follow these steps:
 
@@ -11,7 +11,7 @@ To start the application, follow these steps:
 
     npm run build
 
-### To starte te application execute
+### To start the application execute
 
     npm run start
 
